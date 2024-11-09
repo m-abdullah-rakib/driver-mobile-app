@@ -1,0 +1,4 @@
+enum InternetConnection {
+  wifi,
+  mobile,
+}

@@ -1,0 +1,4 @@
+enum CashFlow {
+  income,
+  expense,
+}
